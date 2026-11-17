@@ -1,0 +1,6 @@
+{
+  "name": "AES-128 Encryption & Decryption Simulator",
+  "description": "Interactive FIPS 197 AES-128 encryption, decryption, key expansion, and step-by-step state matrix simulator for cryptography education.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
